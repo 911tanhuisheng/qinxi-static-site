@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import './styles/global.css'
+import './styles/audio.css'
 createApp(App).mount('#app')
