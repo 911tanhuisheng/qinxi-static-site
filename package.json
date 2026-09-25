@@ -1,0 +1,1 @@
+{"name":"moonlight-2077","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vue-tsc --noEmit && vite build","test":"vitest run"},"dependencies":{"@vitejs/plugin-vue":"latest","vite":"latest","vue":"latest"},"devDependencies":{"typescript":"^5.9.3","vue-tsc":"latest","vitest":"latest"}}

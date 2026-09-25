@@ -1,0 +1,1 @@
+<script setup lang="ts">const top=()=>scrollTo({top:0,behavior:'smooth'})</script><template><section class="final scene"><div class="rise"/><div><small>THE SAME MOON, THE SAME LIGHT</small><h2>海上生明月<br/>天涯共此时</h2><h3>中秋快乐</h3><span>HAPPY MID-AUTUMN FESTIVAL</span><p>愿你今晚抬头，就能看见属于你的浪漫。</p><button class="text" @click="top">再看一次月亮 ↑</button></div></section></template>
