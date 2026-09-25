@@ -1,3 +1,4 @@
 static-site-deploy.tar.gz
 node_modules/
+.worktrees/
 .idea/
