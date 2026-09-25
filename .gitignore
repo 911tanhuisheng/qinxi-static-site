@@ -1,6 +1,5 @@
 static-site-deploy.tar.gz
 node_modules/
 .worktrees/
-public/local-music.mp3
 dist/local-music.mp3
 .idea/
